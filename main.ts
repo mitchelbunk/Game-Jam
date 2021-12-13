@@ -40,3 +40,4 @@ mySprite2 = sprites.create(img`
 scene.cameraFollowSprite(mySprite2)
 controller.moveSprite(mySprite2, 20, 20)
 scene.setBackgroundColor(6)
+tiles.setTilemap(tilemap`level1`)
