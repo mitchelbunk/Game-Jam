@@ -1,5 +1,5 @@
 {
-    "name": "map1",
+    "name": "2nd project",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -10,7 +10,9 @@
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
