@@ -20,20 +20,20 @@ controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
 let mySprite2: Sprite = null
 mySprite2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
-    . . . . . . . f . . . . . . . . 
-    . . . . . . f f f . . . . . . . 
-    . . . . . f 1 f 1 f . . . . . . 
-    . . . . . f 1 f 1 f f . . . . . 
-    . . . . f 1 8 f 8 1 f . . . . . 
-    . . . . f 8 1 f 1 8 1 f . . . . 
-    . . . f 1 8 1 f 1 8 1 f f . . . 
-    . . . f 1 8 1 f 1 8 8 1 f . . . 
-    . . f 1 8 1 1 f 1 1 1 8 1 f . . 
-    . . f f f f f f f f f f f f . . 
-    . . . . . . . f . . . . . . . . 
-    . f f f f f f f f f f f f f f . 
-    . . f 8 1 8 1 8 1 8 1 8 1 f . . 
-    . . . f f f f f f f f f f . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 scene.cameraFollowSprite(mySprite2)
