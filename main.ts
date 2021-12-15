@@ -10,6 +10,13 @@ controller.left.onEvent(ControllerButtonEvent.Pressed, function () {
     )
 })
 controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
+    let mySprite3: Sprite = null
+    animation.runImageAnimation(
+    mySprite3,
+    assets.animation`myAnim`,
+    200,
+    true
+    )
     animation.runImageAnimation(
     mySprite2,
     assets.animation`BoatAnimationR`,
