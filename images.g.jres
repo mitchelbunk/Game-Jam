@@ -4,11 +4,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage1"
     },
-    "image6": {
-        "data": "hwQQABAAAAAAAAAAIAIAAAAgACIiIgIAAAAAICIiIgIAACAiIiJEIiAiIiJEREREAAAiIiJCREEAACAiIkQREQAgIkRERBERACIiIiJCFEEAACIiIkRERAAAAAAiRCQiAAIiIiIiIgIAAAAiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "flame1"
-    },
     "image7": {
         "data": "hwQQABAAAAAAAAAAIAIAAAAgICIiIgIAAAAAICIiIgIAACAiIiIiIiAiIiIiQkQiACAiIiJEREQAACAiIkJEQQAgIiJCRBQRICIiIkJEEREAICIiIkJEEQAAACIiIkREAAIiIiIiQiQAACAiIiIiIgAAAAAgIiICAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -28,6 +23,11 @@
         "data": "hwRAACgAAAARkZlpZmZmZmZmZmZmZmZmZmZmZhGRmWlmZmZmZmZmZmZmZmZmZmZmEZGZaWZmZmZmZmZmZmZmZmZmZmYZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmGZmZaWZmZmZmZmZmZmZmZmZmZmYRkZlpZmZmZmZmZmZmZmZmZmZmZhGRmWlmZmZmZmZmZmZmZmZmZmZmEZGZaWZmZmZmZmZmZmZmZmZmZmYZkZlpZmZmZmZmZmZmZmZmZmZmZhkRmWlmZmZmZmZmZmZmZmZmZmZmEZGZaWZmZmZmZmZmZmZmZmZmZmYZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZGZaWZmZmZmZmZmZmZmZmZmZmYZkZlpZmZmZmZmZmZmZmZmZmZmZhERmWlmZmZmZmZmZmZmZmZmZmZmERGZaWZmZmZmZmZmZmZmZmZmZmYRkZlpZmZmZmZmZmZmZmZmZmZmZhERmWlmZmZmZmZmZmZmZmZmZmZmEZGZaWZmZmZmZmZmZmZmZmZmZmYRmZlpZmZmZmZmZmZmZmZmZmZmZhmRmWlmZmZmZmZmZmZmZmZmZmZmGZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZpmZmWlmZmZmZmZmZmZmZmZmZmZmmZmZaWZmZmZmZmZmZmZmZmZmZmaZmZlpZmZmZmZmZmZmZmZmZmZmZg==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "easter egg option0"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAIAIAAAAgACIiIgIAAAAAICIiIgIAACAiIiJEIiAiIiJEREREAAAiIiJCREEAACAiIkQREQAgIkRERBERACIiIiJCFEEAACIiIkRERAAAAAAiRCQiAAIiIiIiIgIAAAAiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "primal fire"
     },
     "7D41LXlP8UJ6ov3?Dup:": {
         "namespace": "myImages",
