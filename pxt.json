@@ -2,7 +2,10 @@
     "name": "game jam project",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1"
     },
     "files": [
         "main.blocks",
@@ -25,5 +28,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
