@@ -18,25 +18,9 @@ controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
     )
 })
 let mySprite2: Sprite = null
-mySprite2 = sprites.create(img`
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    . . . . . . . . . . . . . . . . 
-    `, SpriteKind.Player)
+mySprite2 = sprites.create(assets.image`myImage1`, SpriteKind.Player)
 scene.cameraFollowSprite(mySprite2)
-controller.moveSprite(mySprite2, 20, 20)
+controller.moveSprite(mySprite2, 30, 30)
 scene.setBackgroundColor(6)
 tiles.setTilemap(tilemap`level3`)
+tiles.placeOnTile(mySprite2, tiles.getTileLocation(12, 5))
