@@ -698,7 +698,7 @@ f 1 1 f . . f . . . . . . . . .
 . . . . . . e d e . . . . . . . 
 . . . . . . e e e . . . . . . . 
 `];
-            case "myAnim":
+            case "burnt tree":
             case "anim7":return [img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . f . . . . . . . . 
